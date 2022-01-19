@@ -1,0 +1,195 @@
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.exe
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.deps.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.dev.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.csprojAssemblyReference.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfoInputs.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfo.cs
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CoreCompileInputs.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.Manifest.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.xml
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\scopedcss\bundle\school.student.styles.css
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.RazorTargetAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CopyComplete
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\obj\Debug\netcoreapp3.1\school.student.genruntimeconfig.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.exe
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.deps.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.dev.json
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.csprojAssemblyReference.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfoInputs.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfo.cs
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CoreCompileInputs.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.Manifest.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.xml
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\scopedcss\bundle\school.student.styles.css
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.RazorTargetAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CopyComplete
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\DotNet\School - Copy (2)\school.student\obj\Debug\netcoreapp3.1\school.student.genruntimeconfig.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.exe
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.deps.json
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.json
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.runtimeconfig.dev.json
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.csprojAssemblyReference.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfoInputs.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.AssemblyInfo.cs
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CoreCompileInputs.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.Manifest.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\staticwebassets\school.student.StaticWebAssets.xml
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\scopedcss\bundle\school.student.styles.css
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.RazorTargetAssemblyInfo.cache
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.csproj.CopyComplete
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.dll
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.pdb
+C:\Users\kunhikan\Desktop\KT\Student Management System\API\Ranking_API_v3\school.student\obj\Debug\netcoreapp3.1\school.student.genruntimeconfig.cache
